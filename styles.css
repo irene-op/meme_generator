@@ -1,0 +1,31 @@
+h1, h5 {
+    text-align: center;
+}
+
+.titles {
+    padding: 30px 0;
+}
+
+.form-area {
+    background-color: aliceblue;
+}
+
+#add-meme-btn {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.img-container {
+    width: 500px;
+    position: absolute;
+    display: flex;
+}
+
+img{
+    width: 500px;
+}
+
+
