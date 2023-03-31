@@ -18,14 +18,33 @@ h1, h5 {
     margin-bottom: 10px;
 }
 
-.img-container {
+/* .img-container {
     width: 500px;
-    position: absolute;
-    display: flex;
-}
+    position: absolute; 
+} */
 
 img{
     width: 500px;
+    /* position: absolute; */
+    border-radius: 20px;
 }
 
+h2 {
+    position: relative;
+    left: 190px;
+    color: white;
+    font-size: 50px;
+}
 
+h3 {
+    position: relative;
+    top: 20px;
+    color: white;
+    font-size: 50px;
+}
+
+img:hover {
+    width: 530px;
+    cursor: pointer;
+    opacity: 0.5;
+}
